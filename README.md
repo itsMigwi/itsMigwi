@@ -1,4 +1,5 @@
-### Hi there 👋
+#### Charlie Migwi
+### 📫 Reach me on: charliemigwi@gmail.com
 
 <!--
 **itsMigwi/itsMigwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
